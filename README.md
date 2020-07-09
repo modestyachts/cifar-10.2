@@ -1,6 +1,6 @@
-# cifar-10.2
+# CIFAR-10.2
 
-This repository contains the datasets prepared and published in "Harder or Different? A Closer Look at Distribution Shift in Dataset Reproduction." 
+This repository contains the CIFAR-10.2 datasaet prepared and published in "Harder or Different? A Closer Look at Distribution Shift in Dataset Reproduction." 
 
 The structure of files is the same as original CIFAR-10 dataset. Files are a pickled dictionary with keywords b'data' and b'labels' where: 
 - b'labels': is an integer value corresponding to the relevant CIFAR-10 classes
